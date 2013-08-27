@@ -52,6 +52,37 @@ Generates output like this:
      2 Churches
      1 Grand Houses
 
+RANDOM NAME GENERATOR
+---------------------
+
+Configuration files are in the `lib/config` directory. Lists of names and honorifics sourced from various websites.
+
+TODO: add a better demo. Currently, from project directory, run `irb`:
+    
+    irb(main):001:0> $:.unshift File.join(File.dirname(__FILE__), "lib")
+    => ...
+    irb(main):002:0> require 'syabh-gazette'
+    => true
+    irb(main):003:0> names = SYABHG::NameGenerator.new
+    => #<SYABHG::NameGenerator:0x8dead34>
+    irb(main):004:0> names.full_name
+    => "Rosie Thackeray"
+    irb(main):005:0> names.full_name
+    => "Agripina York"
+    irb(main):006:0> names.full_name
+    => "Olivia Stratford"
+    irb(main):009:0> names.full_name(true)
+    => "Gen Lawerence Wade"
+    irb(main):010:0> names.full_name(true)
+    => "Lt Connor Tyndall"
+    irb(main):011:0> names.full_name(true)
+    => "Prof Aimee Westbrook"
+    irb(main):012:0> names.full_name(true)
+    => "Lt Col Logan Wordsworth"
+    irb(main):016:0> names.full_male_name(true)
+    => "Sir Finley Hayden"
+    irb(main):018:0> names.full_female_name(true)
+    => "Rev Maryam Landon"
 
 
 LICENSE
