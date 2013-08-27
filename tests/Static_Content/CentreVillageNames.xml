@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ArrayOfC_VillageName xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <C_VillageName>
+    <m_RegionID>336</m_RegionID>
+    <m_Title>Great Bumpstead</m_Title>
+    <m_SubTitle>Please Drive Carefully</m_SubTitle>
+  </C_VillageName>
+  <C_VillageName>
+    <m_RegionID>337</m_RegionID>
+    <m_Title>Mild Cheating</m_Title>
+    <m_SubTitle>No Funny Business</m_SubTitle>
+  </C_VillageName>
+  <C_VillageName>
+    <m_RegionID>338</m_RegionID>
+    <m_Title>Odd Fitchet</m_Title>
+    <m_SubTitle>Please Drive Carefully</m_SubTitle>
+  </C_VillageName>
+  <C_VillageName>
+    <m_RegionID>339</m_RegionID>
+    <m_Title>Trump Dreading</m_Title>
+    <m_SubTitle>Please Drive Carefully</m_SubTitle>
+  </C_VillageName>
+  <C_VillageName>
+    <m_RegionID>340</m_RegionID>
+    <m_Title>Lesser Harpington</m_Title>
+    <m_SubTitle>Welcomes You</m_SubTitle>
+  </C_VillageName>
+  <C_VillageName>
+    <m_RegionID>341</m_RegionID>
+    <m_Title>Sandy Bucket</m_Title>
+    <m_SubTitle>in-the-Wold</m_SubTitle>
+  </C_VillageName>
+  <C_VillageName>
+    <m_RegionID>342</m_RegionID>
+    <m_Title>Slippery Upton</m_Title>
+    <m_SubTitle>No Funny Business</m_SubTitle>
+  </C_VillageName>
+</ArrayOfC_VillageName>
