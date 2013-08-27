@@ -6,7 +6,7 @@ def in_radius(center_x, center_y, radius, x, y)
   return square_dist <= radius ** 2    
 end
 
-parser = SYABHG::IslandParser.new("Centre",:world => "/home/ldodds/Games/sir/linux/sir_alpha_v0/SaveGames/World1")
+parser = SYABHG::IslandParser.new("Centre",:world => ARGV[0])
 
 island = parser.island
 
