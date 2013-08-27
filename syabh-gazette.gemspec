@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.bindir = "bin"
   s.executables = ["syabh-gazette"]
   s.test_file = "tests/ts_syabh_gazette.rb"
-  s.add_dependency("json")
-  s.add_dependency("redcarpet")
-  s.add_development_dependency("fakefs")
+#  s.add_dependency("json")
+#  s.add_dependency("redcarpet")
+#  s.add_development_dependency("fakefs")
 end
