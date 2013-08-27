@@ -84,6 +84,18 @@ TODO: add a better demo. Currently, from project directory, run `irb`:
     irb(main):018:0> names.full_female_name(true)
     => "Rev Maryam Landon"
 
+CONCEPT/IDEAS
+-------
+
+Local paper to include:
+
+* Adverts -- specific adverts to be based on which lootable items are on the island, and their relative amounts
+* Randomly generated people names
+* Templated newspaper reports driven off items on the island
+* Attempt to provide "achievements", e.g. "John Smith has lost his trombone"; "Local author publishes new book"
+* Pub walks/rambles
+
+![Concept](/etc/concept.png "Screenshot of wireframe")
 
 LICENSE
 --------
